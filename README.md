@@ -5,3 +5,6 @@ Updated here
 
 
 this is the update for new test brand's read me 
+
+
+this is new branch's test note. MUST SHOW UP
